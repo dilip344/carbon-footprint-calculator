@@ -1,4 +1,4 @@
-# GreenPulse Project (carbon-footprint-calculator)
+# GreenPulse Project
 
 GreenPulse is a web-based carbon footprint platform with two modes:
 
