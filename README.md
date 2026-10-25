@@ -57,7 +57,7 @@ Backend:
 ## Folder structure
 
 ```text
-GreenPulse_Final/
+Carbon-footprint-calculator/
 ├── frontend/
 │   ├── src/
 │   ├── package.json
